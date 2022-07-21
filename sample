@@ -1,0 +1,15 @@
+git config --global user.name Barath1796
+
+git config --global user.email barathrpmsc03@gmail.com
+
+git config -l
+
+git init
+
+git add .
+
+git commit -m "First commit"
+
+git remote add origin
+
+git push origin master
